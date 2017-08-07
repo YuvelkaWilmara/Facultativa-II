@@ -1,0 +1,61 @@
+header{
+    background-color: black;
+    color: white; /*color del texto */
+    padding: 2em; /* espacio interno */
+
+}
+
+h1{
+    color:orange;
+    margin: 0;
+}
+
+h4{
+    margin:0;
+}
+
+.detalle{
+    font-family:Julee;
+    font-size: 1.4em;
+    line-height: 28px;
+
+}
+
+button{
+    border-radius: 50px;
+    font-size: 1.2em;
+    height: 50px;
+    width: 250px;
+    background-color: yellow;
+    
+}
+
+button:hover{
+
+    background-color: white;
+
+}
+
+li{
+    display: inline-block;
+    padding-right: 25px;
+}
+
+a{
+    font-size: 1.4em;
+    text-decoration: none;
+}
+
+nav{
+    font-family: Julee;
+    background-color: orange;
+    padding: 1.2em;
+    text-align: center;
+}
+
+footer{
+
+     background-color: black;
+    color: white; /*color del texto */
+    padding: 2em; /* espacio interno */
+}

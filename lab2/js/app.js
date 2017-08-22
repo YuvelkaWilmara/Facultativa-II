@@ -9,8 +9,6 @@ var resul = document.getElementById("result");
 var resultado;
 
 
-
-
 suma.addEventListener("click",sumar);
 resta.addEventListener("click", restar);
 multip.addEventListener("click",multiplicacion);

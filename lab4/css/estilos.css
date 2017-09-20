@@ -1,0 +1,87 @@
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(../fonts/icon.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+  nav{
+    font-family: Julee;
+    background-color: black;
+     color:black;
+    padding: 1.2em;
+    
+}
+nav ul{
+  font-family: Julee;
+  transition: background-color .3s;
+    font-size: 12rem;
+    color: #000000;
+    display: block;
+    padding: 0 20px;
+    cursor: pointer;
+ 
+
+}
+  
+h2{
+  text-align: center;
+  z-index: 0;
+}
+h5{
+ text-align: center;
+  z-index: 0
+}
+ .Button
+ {
+   background-color:white;
+   border-radius: 2px;
+   display: inline-block;
+   position:relative;
+   padding: 15px 30px; 
+ }
+
+
+#sidenav-overlay{
+  z-index: 0; 
+}
+
+
+nav ul a:hover{
+  
+  color: #000000;
+  background: #c0c0c0;
+}
+
+
+.negra
+{ height: 65px;
+  padding-right: 0px;
+  padding-left: -0px;
+  position: relative;
+  margin-left: -300PX;
+}
+
+.parallax-container{
+  height: 250px
+}
+
+
+
